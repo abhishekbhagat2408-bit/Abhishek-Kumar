@@ -1,0 +1,11 @@
+{
+  "name": "Abhigyan Rojgar Sathi",
+  "description": "Connecting job seekers with local opportunities and providing real-time notifications for nearby employment openings.",
+  "requestFramePermissions": [
+    "geolocation",
+    "notifications"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
